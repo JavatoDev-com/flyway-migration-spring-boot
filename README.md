@@ -1,5 +1,8 @@
 # Database Migration Using Flyway in Spring Boot
 
+<a href="https://javatodev.com/flyway-spring-boot/" target="blank">
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/10/Database-Migration-Using-Flyway-in-Spring-Boot-1-800x450.png" alt="Database Migration Using Flyway in Spring Boot"/></a>
+
 <p align="left">
 Flyway one of the best open-source database migration tool. Flyway supports to write migrations in SQL and Java (for advanced data transformations or dealing with LOB). Here we are discussing how we can use flyway in spring boot application and what are the best practices we could follow in such a setup.
 
@@ -65,8 +68,10 @@ Related Articles
  - [Spring Boot REST API Using Spring Data MongoDB Tutorial](https://javatodev.com/spring-boot-mongodb-crud-api/)
  - [Spring Boot REST API CRUD With DynamoDB Tutorial](https://javatodev.com/spring-boot-dynamo-db-crud-tutorial/)
 
-<h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
-<h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
+<h2>Author Profile</h2>
+
+<h3 align="center">Hi 👋, I'm Chinthaka Dinadasa</h3>
+<h5 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h5>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javatodev" alt="javatodev" /></a> </p> -->
 
